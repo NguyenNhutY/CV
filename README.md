@@ -1,2 +1,1 @@
-
-    <img src="./img/Ảnh chụp màn hình 2023-10-13 070753.jpg" alt="" srcset="" style="max-width: 100%;height: auto;margin: 5px;">
+![Ảnh chụp màn hình 2023-10-13 070753](https://github.com/NguyenNhutY/CV/assets/130396826/79d9a8b5-0fb5-478b-ba20-af8acfbba63e)
